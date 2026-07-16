@@ -1,4 +1,4 @@
-# 🚀 ServeRest — Automação de Testes com Cypress
+# 🚀 Teste Ambev — Automação de Testes com Cypress
 
 > 🎯 Projeto de automação E2E e API utilizando Cypress 12 com arquitetura Page Object Model (POM).
 
